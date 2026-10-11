@@ -1,5 +1,5 @@
 <!-- ======================================================== -->
-<!-- ASHWANTH ASH | SYSTEMS BUILDER & QUANTUM SOFTWARE PORTFOLIO -->
+<!-- ASHWANTH Engineer in Progress. Innovator by Choice | SYSTEMS BUILDER & QUANTUM SOFTWARE PORTFOLIO -->
 <!-- Palette: Deep #0f0c29 | Royal #302b63 | Lavender #a78bfa   -->
 <!-- ======================================================== -->
 
@@ -289,5 +289,6 @@ const ashwanth = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,50:0f0c29,100:0f0c29&height=120&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
-#   a s h w a n t h 0 0 7 - d  
+#   a s h w a n t h 0 0 7 - d 
+ 
  
