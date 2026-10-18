@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 56" width="1200" height="56" role="presentation">
+<defs>
+  <linearGradient id="l" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff6b00" stop-opacity="0"/><stop offset="1" stop-color="#ff9a3c"/></linearGradient>
+  <linearGradient id="r" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff9a3c"/><stop offset="1" stop-color="#ff6b00" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="80" y="26" width="480" height="4" rx="2" fill="url(#l)"/>
+<rect x="640" y="26" width="480" height="4" rx="2" fill="url(#r)"/>
+<circle r="4" cy="28" fill="#2ec4ff"><animate attributeName="cx" values="80;560" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/></circle>
+<circle r="4" cy="28" fill="#2ec4ff"><animate attributeName="cx" values="1120;640" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/></circle>
+<g transform="translate(600,28) scale(0.5)" opacity="1">
+  <g><path d="M0,-40 L9,-9 L40,0 L9,9 L0,40 L-9,9 L-40,0 L-9,-9 Z M0,-5 A5,5 0 1 0 0.01,-5 Z" fill="#ffd27a" fill-rule="evenodd" stroke="#0b1020" stroke-width="2"/>
+  <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/></g></g>
+</svg>
